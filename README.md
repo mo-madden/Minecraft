@@ -7,7 +7,7 @@ Getting Started
 Our server runs on the Minecraft Fabric 1.19.4 mod loader.
 
 The only necessary installer is the Fabric installer if you do not already have it.
-Find the fabric installer in the installer folder.
+Find the fabric installer in the "Installers" directory.
 Otherwise go to the official site: https://fabricmc.net/use/installer/
 Double click the .jar file, and make sure to select 1.19.4 in the installation wizard.
 
