@@ -17,7 +17,9 @@ Download each file, and copy them into your Minecraft mods folder.
 Your Minecraft mods folder can be found at these locations
 
 If on Windows: %appdata%\.minecraft\mods
+
 If on Linux: $HOME\.minecraft\mods
+
 If on Mac: Lmao
 
 If you have accomplished the above, you can now join the server.
