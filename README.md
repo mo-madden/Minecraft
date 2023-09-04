@@ -18,7 +18,7 @@ Your Minecraft mods folder can be found at these locations
 
 If on Windows: %appdata%\\.minecraft\mods
 
-If on Linux: $HOME\.minecraft\mods
+If on Linux: $HOME\\.minecraft\mods
 
 If on Mac: Lmao
 
