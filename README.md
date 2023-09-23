@@ -27,4 +27,10 @@ If you have accomplished the above, you can now join the server.
 Aditional Information
 ---------------------------------------------------------------------------------------
 
-Coming soon... I'm too tired to type this out right now.
+I have placed additional mods in the "Michae's Recommended Mods" These mods are not
+required to join the server, but either serve a functional purpose or aesthetic purpose.
+One mod not listed (because the file was too large) is the Ambient Sounds 5 mod. The mod
+and it's dependancy can be found at the links below.
+
+Ambient Sounds 5:https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files?version=1.19.4&gameVersionTypeId=4
+Creative Core:https://www.curseforge.com/minecraft/mc-mods/creativecore/files?version=1.19.4&gameVersionTypeId=4
