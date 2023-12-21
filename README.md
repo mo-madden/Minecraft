@@ -38,33 +38,33 @@ Creative Core: https://www.curseforge.com/minecraft/mc-mods/creativecore/files?v
 
 Mod List (*Not Required)
 ---------------------------------------------------------------------------------------
-Croptopia  
-Nature's Compass  
-TreeChop  
-Cloth-Config (dependency for MCDA)  
-Comforts  
-Fabric API (dependency for everything)  
-Fabric Seasons  
-Fabric Seasons Croptopia Compatibility  
-Fabric Seasons Extras  
-Handcrafted  
-Immersive Aircraft  
-MCDA  
-MCDW  
-MCW Paintings  
-Midnight Library (dependency)  
-Resourceful Library (dependency)  
-Small Ships  
-The Bumblezone  
-Vivecraft  
-*Xaero's World Map  
-*Xaero's Minimap  
-*Indium  
-*JEI  
-*Lamb Dynamic Lights  
-*Logical Zoom  
-*Mod Menu  
-*Sodium Fabric  
-*Sound Physics  
+Croptopia</br>
+Nature's Compass</br>
+TreeChop</br>
+Cloth-Config (dependency for MCDA)</br>
+Comforts</br>
+Fabric API (dependency for everything)</br>
+Fabric Seasons</br>
+Fabric Seasons Croptopia Compatibility</br>
+Fabric Seasons Extras</br>
+Handcrafted</br>
+Immersive Aircraft</br>
+MCDA</br>
+MCDW</br>
+MCW Paintings</br>
+Midnight Library (dependency)</br>
+Resourceful Library (dependency)</br>
+Small Ships</br>
+The Bumblezone</br>
+Vivecraft</br>
+*Xaero's World Map</br>
+*Xaero's Minimap</br>
+*Indium</br>
+*JEI</br>
+*Lamb Dynamic Lights</br>
+*Logical Zoom</br>
+*Mod Menu</br>
+*Sodium Fabric</br>
+*Sound Physics</br>
 
 
