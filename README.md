@@ -64,7 +64,7 @@ Vivecraft</br>
 *Lamb Dynamic Lights</br>
 *Logical Zoom</br>
 *Mod Menu</br>
-*Sodium Fabric(performance booster)</br>
+*Sodium Fabric (performance booster)</br>
 *Sound Physics</br>
 
 
