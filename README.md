@@ -59,12 +59,12 @@ The Bumblezone</br>
 Vivecraft</br>
 *Xaero's World Map</br>
 *Xaero's Minimap</br>
-*Indium</br>
+*Indium (performance booster)</br>
 *JEI</br>
 *Lamb Dynamic Lights</br>
 *Logical Zoom</br>
 *Mod Menu</br>
-*Sodium Fabric</br>
+*Sodium Fabric(performance booster)</br>
 *Sound Physics</br>
 
 
